@@ -31,5 +31,5 @@ Git, GitHub, Testing, Haskell, arquitectura hexagonal, DDD
 
 ### 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/jgrimoldi/)
-- [Mail](mailto:joaquingrimoldi.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgrimoldi)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaquingrimoldi.dev+github@gmail.com)
