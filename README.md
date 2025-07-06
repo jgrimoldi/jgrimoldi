@@ -1,6 +1,6 @@
 # 👋 Hola, soy J
 
-Desarrollador full stack con más de 7 años de experiencia profesional en fintech. Actualmente estudio Ingeniería en Informática y trabajo con tecnologías modernas en frontend, backend e infraestructura cloud. Me interesa construir soluciones bien diseñadas, eficientes y mantenibles.
+Desarrollador full stack con más de 2 años de experiencia profesional en fintech, y varios años previos desarrollando soluciones de forma independiente. Estudiante de Ingeniería en Informática, enfocado en tecnologías modernas, arquitectura limpia y performance.
 
 ---
 
